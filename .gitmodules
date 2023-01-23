@@ -2,3 +2,8 @@
 	path = oskrbass/nomina_v14
 	url = git@github.com:oskrbass/nomina_v14.git
 	branch = main
+
+[submodule "doerpartners/pos_global_invoice_v14"]
+	path = doerpartners/pos_global_invoice_v14
+	url = git@github.com:doerpartners/pos_global_invoice_v14.git
+	branch = main
